@@ -21,7 +21,7 @@ We'll start with a pair of Enterasys B5 switches. First of all, we choose [PuTTY
 
 To first link a switch to our laptop, we'll establish connection with the console port on the switch. For this, we'll need a RJ45-to-DB9 adapter.
 
-![panel](./img/hardware.png)
+![panel](./img/hardware.PNG)
 
 
 ### First time connection: reset to factory settings
